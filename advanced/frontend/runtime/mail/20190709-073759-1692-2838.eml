@@ -1,0 +1,56 @@
+Message-ID: <3bf571257682c3373194077dfcad8c35@localhost>
+Date: Tue, 09 Jul 2019 07:37:59 +0200
+Subject: Account registration at My Application
+From: My Application robot <support@example.com>
+To: root@qq.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1562650679_c13f3712c5a95622f674841d28337a4f_=_"
+
+
+--_=_swift_1562650679_c13f3712c5a95622f674841d28337a4f_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello root,
+
+Follow the link below to verify your email:
+
+http:/=
+/localhost:8081/advanced/frontend/web/index.php?r=3Dsite%2Fverify-email&tok=
+en=3D2CIlrMyuAoRUlDPcBFuXTSEqOBZExH0__1562650679
+
+--_=_swift_1562650679_c13f3712c5a95622f674841d28337a4f_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello root,</p>
+
+    <p>Follo=
+w the link below to verify your email:</p>
+
+    <p><a href=3D"http://lo=
+calhost:8081/advanced/frontend/web/index.php?r=3Dsite%2Fverify-email&amp;to=
+ken=3D2CIlrMyuAoRUlDPcBFuXTSEqOBZExH0__1562650679">http://localhost:8081/ad=
+vanced/frontend/web/index.php?r=3Dsite%2Fverify-email&amp;token=3D2CIlrMyuA=
+oRUlDPcBFuXTSEqOBZExH0__1562650679</a></p>
+</div>
+    </body>
+</html>=
+
+
+
+--_=_swift_1562650679_c13f3712c5a95622f674841d28337a4f_=_--
