@@ -1,11 +1,16 @@
 <?php
 namespace backend\controllers;
 
+/**
+ * 更改use中loginform的路径
+ * 7月11日 于胜龙
+ */
+
 use Yii;
 use yii\web\Controller;
 use yii\filters\VerbFilter;
 use yii\filters\AccessControl;
-use common\models\LoginForm;
+use backend\models\LoginForm;
 
 /**
  * Site controller

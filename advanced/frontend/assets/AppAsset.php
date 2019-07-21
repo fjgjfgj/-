@@ -5,18 +5,21 @@ namespace frontend\assets;
 use yii\web\AssetBundle;
 
 /**
+ * 删去前台默认css、js
+ * 7月14日 肖元元
+ */
+
+/**
  * Main frontend application asset bundle.
  */
 class AppAsset extends AssetBundle
 {
     public $basePath = '@webroot';
     public $baseUrl = '@web';
-    //页面中加载的css和js文件，在web目录下，也就是说web的css目录下的文件就是被引入的文件，然后只用更改这里的路径就可以了
     public $css = [
     ];
     public $js = [
     ];
-    //显示这些东西放在哪里
     public $depends = [
     ];
 }
